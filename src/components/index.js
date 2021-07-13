@@ -1,4 +1,4 @@
 export { default as Header } from './header/Header';
-export { default as MoviesDetails } from './movies-details/MoviesDetails';
-export { default as MoviesList } from './movies-list/MoviesList';
-export { default as MovieElement } from './movies-list/MovieElement';
+export { default as MovieDetails } from './movie-details/MovieDetails';
+export { default as MovieList } from './movie-list/MovieList';
+export { default as MovieElement } from './movie-list/MovieElement';
