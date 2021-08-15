@@ -9,7 +9,7 @@ export default class MovieDetails extends Component {
         <div>
           <img
             alt={this.props.movie.title}
-            className="d-block mx-auto"
+            className="d-block mx-auto w-100"
             src={this.props.movie.img}
           />
         </div>
